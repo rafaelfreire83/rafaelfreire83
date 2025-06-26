@@ -9,7 +9,7 @@
 
 ---
 
-## 🚀 Sobre mim
+## 🧑🏻‍💻 Sobre mim
 
 Sou um desenvolvedor front-end apaixonado por transformar ideias em interfaces funcionais e responsivas. Gosto de trabalhar com tecnologias modernas e estou sempre em busca de escrever código limpo, performático e de fácil manutenção.
 
