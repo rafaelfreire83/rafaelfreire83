@@ -5,6 +5,8 @@
   JavaScript | TypeScript | React | Vue
 </p>
 
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQFlXjcEKhCYRw/profile-displaybackgroundimage-shrink_350_1400/B4DZeTk6ALGYAY-/0/1750527615793?e=1756339200&v=beta&t=wyMI_azvdqfxedxymHYgvG64hDYNtksCmpfRyl8gk_0" alt="Banner" />
+
 ---
 
 ## 🚀 Sobre mim
